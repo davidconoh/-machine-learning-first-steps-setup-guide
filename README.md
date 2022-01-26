@@ -53,4 +53,4 @@ Enter `conda deactivate` in your terminal to deactivate **Anaconda** and `source
 The **Anaconda** environment comes preloaded with a number of tools for data science projects. But, you can extend it's functions by installing from the interface other alternatives and environments that meet your needs. Free free to be creative.
 
 ## Next Steps
-Thank you for following this guide. See you at the event.
+Thank you for following this guide. See you at the event. 🎉
