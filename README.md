@@ -1,5 +1,5 @@
 # Machine Learning First Steps Setup Guide
-This setup guide is for the **tutorial** at [Yonder Hacks](https://github.com/yonderhacks/machine-learning-first-steps).
+This setup guide is for the **tutorial** at [Yonder Hacks](https://github.com/yonderhacks/machine-learning-first-steps). 🎉
 
 ## Getting Started
 Before we kick start our learning journey, we would require you own a laptop running a recent version of any of the popular operating systems ([Windows](https://www.microsoft.com/en-us/windows), [Mac](https://www.apple.com/mac/), [Linux](https://www.linux.org/pages/download/)), or [**Raspberry Pi**](https://www.raspberrypi.com/) computer, an active **Internet** connection, and the following services to get you ready for an amazing experience:
@@ -53,4 +53,4 @@ Enter `conda deactivate` in your terminal to deactivate **Anaconda** and `source
 The **Anaconda** environment comes preloaded with a number of tools for data science projects. But, you can extend it's functions by installing from the interface other alternatives and environments that meet your needs. Free free to be creative.
 
 ## Next Steps
-Thank you for following this guide. See you at the event. 🎉
+Thank you for following this guide. See you at the event.
